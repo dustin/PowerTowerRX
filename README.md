@@ -23,7 +23,7 @@ The core radio operation.
 * [D4, D6 - 1N4148 diode](http://www.digikey.com/product-detail/en/0/1N4148W-E3-08CT-ND)
 * [LP1 - LP5907](http://www.digikey.com/product-detail/en/0/296-40365-1-ND)
 * [R1, R8 - 0603 10kΩ](http://www.digikey.com/product-detail/en/0/RMCF0603FT10K0CT-ND) [opt + R3, R14]
-* [R2 - 0603 2.2kΩ](http://www.digikey.com/product-detail/en/0/RMCF0603FT2K20CT-ND/1943011) [opt + R15]
+* [R2 - 0603 2.2kΩ](http://www.digikey.com/product-detail/en/0/RMCF0603FT2K20CT-ND/1943011)
 * [R4, R5, R6, R8, R10 - 0603 1kΩ](http://www.digikey.com/product-detail/en/0/P1.00KHCT-ND)
 * [R6, R7 - 220Ω](http://www.digikey.com/product-detail/en/0/RMCF0603FT220RCT-ND)
 * [U2 - RFM22SMD](http://www.ebay.com/itm/RFM22B-433Mhz-Wireless-Transceiver-from-HopeRF-/171728634731)
@@ -49,7 +49,7 @@ The core radio operation.
 * [D7 - 0805 blue LED](http://www.digikey.com/product-detail/en/0/160-1579-1-ND/564889)
 * [D8 - 0805 red LED](http://www.digikey.com/product-detail/en/0/160-1427-1-ND/386800)
 * [R11, R12, R13 - 0603 1.5kΩ](http://www.digikey.com/product-detail/en/0/RMCF0603FT1K50CT-ND/1943003)
-* [R15 - 0603 2.2kΩ](http://www.digikey.com/product-detail/en/0/RMCF0603FT2K20CT-ND/1943011)
+* [R15 - 0603 4.7kΩ](http://www.digikey.com/product-detail/en/0/P4.70KHCT-ND)
 * [R3 - 0603 10kΩ](http://www.digikey.com/product-detail/en/0/RMCF0603FT10K0CT-ND)
 * [U6 - BQ24075](http://www.digikey.com/product-detail/en/0/296-23840-1-ND)
 
