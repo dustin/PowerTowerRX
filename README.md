@@ -16,7 +16,7 @@ The core radio operation.
 * [C6, C12, C13 - 0603 1μF](http://www.digikey.com/product-detail/en/0/1276-1946-1-ND) [opt + C18]
 * [C7, C8, C9  - 0603 0.1μF](http://www.digikey.com/product-detail/en/0/490-1532-1-ND/587771) [opt + C17, C19]
 * [C14 - 0603 220nF](http://www.digikey.com/product-detail/en/0/587-1246-1-ND/0)
-* [C15, C15 - 0805 12pF](http://www.digikey.com/product-detail/en/0/1276-1120-1-ND/3889206)
+* [C15, C16 - 0805 12pF](http://www.digikey.com/product-detail/en/0/1276-1120-1-ND/3889206)
 * [D1 - 0805 Schottky diode](http://www.digikey.com/product-detail/en/0/478-7802-1-ND) [opt + D5]
 * [D2 - 0805 red LED](http://www.digikey.com/product-detail/en/0/160-1427-1-ND/386800) [opt + D8]
 * [D3 - 0805 green LED](http://www.digikey.com/product-detail/en/0/160-1423-1-ND/386792)
