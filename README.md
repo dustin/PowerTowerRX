@@ -57,7 +57,7 @@ The core radio operation.
 
 ![Top](http://i.imgur.com/L3kWhDl.png)
 
-![Bottom](http://i.imgur.com/ItlEYPL.png)
+![Bottom](http://i.imgur.com/eQBjqIf.png)
 
 # License
 
