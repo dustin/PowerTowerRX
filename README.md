@@ -55,7 +55,7 @@ The core radio operation.
 
 ** Board
 
-![Top](http://i.imgur.com/L3kWhDl.png)
+![Top](http://i.imgur.com/0YoKvxP.png)
 
 ![Bottom](http://i.imgur.com/eQBjqIf.png)
 
